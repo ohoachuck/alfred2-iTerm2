@@ -3,6 +3,10 @@ alfred2-iTerm2
 
 Little Alfred2 workflow to chose between pre-configured iTerm2 splitted windows.
 
+Such windows could be initiated with bash scripts.
+
+You could for instance automaticaly ssh to your favourite server and run remote "tail -f /var/log/your-favourite-log" in one windows + tail an other log file in an other splitted window, etc.
+
 ## Configuration
 Edit the AppleScript within the workflow (first few lines) and configure the iTerm2 windows the way you want it.
 
